@@ -5,4 +5,4 @@ nav_order: 1
 description: "helloooo"
 permalink: /
 ---
-whyyyyy
+부스트캠프 AI Tech 준비 과정
