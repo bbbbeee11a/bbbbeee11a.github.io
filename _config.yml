@@ -108,6 +108,17 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
+  active: giscus
+  gitcus:
+    repo: "bbbbeee11a/bbbbeee11a.github.io"           # data-repo 값
+    repo_id: "R_kgDORiHExw"            # data-repo-id 값
+    category: "Comments"               # data-category 값
+    category_id: "DIC_kwDORiHEx84C4AGu" # data-category-id 값
+    mapping: "pathname"                # data-mapping 값
+    input_position: "bottom"           # data-input-position 값
+    lang: "ko"                         # data-lang 값
+    reactions_enabled: 1               # data-reactions-enabled 값
+
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
